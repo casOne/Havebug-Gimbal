@@ -10,5 +10,6 @@ The sprocket has 32mm separated fixing points and holes to accept M5 bolts
 <img width="586" alt="image" src="https://github.com/user-attachments/assets/2d897cfb-d36a-409f-8b1f-b244b171623c" />
 
 
-Add insert from back:
+Add M5 inserts from back:
+
 <img width="828" alt="image" src="https://github.com/user-attachments/assets/c288877a-f74b-43aa-a11e-1978ca99dab1" />
